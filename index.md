@@ -8,3 +8,7 @@
 $ git init
 Initialized empty Git Repository in /Users/skills/Projects/mata
 ```
+
+- [ ] mata Github
+- [ ] tactu github
+- [ ] muiemarkdown
